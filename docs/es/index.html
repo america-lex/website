@@ -128,7 +128,7 @@ Americalex
 
             
             
-            <a class="navbar-item" href="#contact">Contact</a>
+            <a class="navbar-item" href="#contact">Contacto</a>
             
             
 
@@ -244,14 +244,10 @@ Americalex
         
         <div class="section" id="contact">
             <div class="container has-text-centered">
-                <h2 class="title is-2">Contact</h2>
+                <h2 class="title is-2">Contacto</h2>
                 <div class="markdown">
-                    <p>In the Contact section of <strong>Introduction</strong>, you may optionally display the current time in your preferred timezone.</p>
-<p>This lets visitors know what sort of response time to expect when they contact you. The timezone is easily set in the <code>config.toml</code> file. See the exampleSite configuration for instructions.</p>
-
+                    
                 </div>
-                
-                <p>My current local time is <span id="time"></span>.</p>
                 
                 
                 <h3 class="subtitle is-3 has-text-centered top-pad">
@@ -310,16 +306,6 @@ Americalex
 <script src="https://vocabulista.github.io/americalex/js/bundleOwlCarousel.afccb665ffddf92101a8bc04b924a4a5b9a36c0ad0ad61024da751cdd8fd1ed9.js" integrity="sha256-r8y2Zf/d&#43;SEBqLwEuSSkpbmjbArQrWECTadRzdj9Htk="></script>
 
 
-        
-        <script>
-            function update_localtime() {
-                const time = new Date().toLocaleTimeString('en-US', { timeZone: 'America\/Los_Angeles', timeStyle: 'short' });
-                document.getElementById('time').innerHTML = time;
-            }
-            update_localtime();
-            
-            setInterval(update_localtime, 1000);
-        </script>
         
     </body>
 

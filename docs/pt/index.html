@@ -128,7 +128,7 @@ Americalex
 
             
             
-            <a class="navbar-item" href="#contact">Contacto</a>
+            <a class="navbar-item" href="#contact">Contato</a>
             
             
 
@@ -244,14 +244,10 @@ Americalex
         
         <div class="section" id="contact">
             <div class="container has-text-centered">
-                <h2 class="title is-2">Contacto</h2>
+                <h2 class="title is-2">Contato</h2>
                 <div class="markdown">
-                    <p>En la sección de Contacto de <strong>Introducción</strong>, tu puedes opcionalmente mostrar la hora actual en tu zona horaria preferida.</p>
-<p>Esto permite a los visitantes saber que tiempo de respuesta esperan tener cuando te contactan. La zhoa horaria es facilmente configurable en el archivo de configuración.</p>
-
+                    
                 </div>
-                
-                <p>My current local time is <span id="time"></span>.</p>
                 
                 
                 <h3 class="subtitle is-3 has-text-centered top-pad">
@@ -310,16 +306,6 @@ Americalex
 <script src="https://vocabulista.github.io/americalex/js/bundleOwlCarousel.afccb665ffddf92101a8bc04b924a4a5b9a36c0ad0ad61024da751cdd8fd1ed9.js" integrity="sha256-r8y2Zf/d&#43;SEBqLwEuSSkpbmjbArQrWECTadRzdj9Htk="></script>
 
 
-        
-        <script>
-            function update_localtime() {
-                const time = new Date().toLocaleTimeString('en-US', { timeZone: 'America\/Los_Angeles', timeStyle: 'short' });
-                document.getElementById('time').innerHTML = time;
-            }
-            update_localtime();
-            
-            setInterval(update_localtime, 1000);
-        </script>
         
     </body>
 
