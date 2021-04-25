@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vocabulista.github.io/americalex/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://vocabulista.github.io/americalex/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vocabulista.github.io/americalex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vocabulista.github.io/americalex/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vocabulista.github.io/americalex/es/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://vocabulista.github.io/americalex/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vocabulista.github.io/americalex/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vocabulista.github.io/americalex/es/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vocabulista.github.io/americalex/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://vocabulista.github.io/americalex/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vocabulista.github.io/americalex/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vocabulista.github.io/americalex/es/tags/"
+                />
+  </url>
+  
+</urlset>
