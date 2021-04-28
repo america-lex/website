@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vocabulista.github.io/americalex/es/</loc>
+    <loc>https://vocabulista.github.io/americalex/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vocabulista.github.io/americalex/"
+                href="https://vocabulista.github.io/americalex/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,16 +17,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vocabulista.github.io/americalex/es/"
+                href="https://vocabulista.github.io/americalex/"
                 />
   </url>
   
   <url>
-    <loc>https://vocabulista.github.io/americalex/es/series/</loc>
+    <loc>https://vocabulista.github.io/americalex/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vocabulista.github.io/americalex/series/"
+                href="https://vocabulista.github.io/americalex/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,16 +36,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vocabulista.github.io/americalex/es/series/"
+                href="https://vocabulista.github.io/americalex/series/"
                 />
   </url>
   
   <url>
-    <loc>https://vocabulista.github.io/americalex/es/tags/</loc>
+    <loc>https://vocabulista.github.io/americalex/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vocabulista.github.io/americalex/tags/"
+                href="https://vocabulista.github.io/americalex/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,7 +55,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vocabulista.github.io/americalex/es/tags/"
+                href="https://vocabulista.github.io/americalex/tags/"
                 />
   </url>
   
