@@ -4,10 +4,11 @@ body {
     font-weight:400;
     line-height:1.5
    }
-.navbar-item, .navbar-link {
-    color: #00FFFF;
+
+   .navbar-item, .navbar-link {
+    color: #000000;
     display: block;
     line-height: 1.5;
     padding: 0.5rem 0.75rem;
     position: relative;
-}   
+}      
