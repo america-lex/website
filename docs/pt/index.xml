@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Americalex</title>
-    <link>https://vocabulista.github.io/americalex/pt/</link>
+    <link>https://america-lex.github.io/website/pt/</link>
     <description>Recent content on Americalex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language><atom:link href="https://vocabulista.github.io/americalex/pt/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt</language><atom:link href="https://america-lex.github.io/website/pt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

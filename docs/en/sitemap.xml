@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vocabulista.github.io/americalex/en/</loc>
+    <loc>https://america-lex.github.io/website/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vocabulista.github.io/americalex/"
+                href="https://america-lex.github.io/website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://vocabulista.github.io/americalex/pt/"
+                href="https://america-lex.github.io/website/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vocabulista.github.io/americalex/en/"
+                href="https://america-lex.github.io/website/en/"
                 />
   </url>
   
   <url>
-    <loc>https://vocabulista.github.io/americalex/en/series/</loc>
+    <loc>https://america-lex.github.io/website/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vocabulista.github.io/americalex/series/"
+                href="https://america-lex.github.io/website/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://vocabulista.github.io/americalex/pt/series/"
+                href="https://america-lex.github.io/website/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vocabulista.github.io/americalex/en/series/"
+                href="https://america-lex.github.io/website/en/series/"
                 />
   </url>
   
   <url>
-    <loc>https://vocabulista.github.io/americalex/en/tags/</loc>
+    <loc>https://america-lex.github.io/website/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vocabulista.github.io/americalex/tags/"
+                href="https://america-lex.github.io/website/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://vocabulista.github.io/americalex/pt/tags/"
+                href="https://america-lex.github.io/website/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vocabulista.github.io/americalex/en/tags/"
+                href="https://america-lex.github.io/website/en/tags/"
                 />
   </url>
   
