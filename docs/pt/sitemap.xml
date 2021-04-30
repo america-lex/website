@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://america-lex.github.io/website/pt/</loc>
+    <loc>https://americalex.org/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://america-lex.github.io/website/"
+                href="https://americalex.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://america-lex.github.io/website/en/"
+                href="https://americalex.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://america-lex.github.io/website/pt/"
+                href="https://americalex.org/pt/"
                 />
   </url>
   
   <url>
-    <loc>https://america-lex.github.io/website/pt/series/</loc>
+    <loc>https://americalex.org/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://america-lex.github.io/website/series/"
+                href="https://americalex.org/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://america-lex.github.io/website/en/series/"
+                href="https://americalex.org/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://america-lex.github.io/website/pt/series/"
+                href="https://americalex.org/pt/series/"
                 />
   </url>
   
   <url>
-    <loc>https://america-lex.github.io/website/pt/tags/</loc>
+    <loc>https://americalex.org/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://america-lex.github.io/website/tags/"
+                href="https://americalex.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://america-lex.github.io/website/en/tags/"
+                href="https://americalex.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://america-lex.github.io/website/pt/tags/"
+                href="https://americalex.org/pt/tags/"
                 />
   </url>
   
