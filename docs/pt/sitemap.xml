@@ -1,56 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://americalex.org/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://americalex.org/"
+                href="https://americalex.org/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://americalex.org/en/"
+                href="https://americalex.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
                 href="https://americalex.org/pt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://americalex.org/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://americalex.org/series/"
+                href="https://americalex.org/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://americalex.org/en/series/"
+                href="https://americalex.org/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
                 href="https://americalex.org/pt/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://americalex.org/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://americalex.org/tags/"
+                href="https://americalex.org/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://americalex.org/en/tags/"
+                href="https://americalex.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,5 +53,4 @@
                 href="https://americalex.org/pt/tags/"
                 />
   </url>
-  
 </urlset>

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://americalex.org/</loc>
+    <loc>https://americalex.org/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://americalex.org/en/"
+                href="https://americalex.org/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,16 +16,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://americalex.org/"
+                href="https://americalex.org/es/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://americalex.org/series/</loc>
+  </url><url>
+    <loc>https://americalex.org/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://americalex.org/en/series/"
+                href="https://americalex.org/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,16 +33,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://americalex.org/series/"
+                href="https://americalex.org/es/series/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://americalex.org/tags/</loc>
+  </url><url>
+    <loc>https://americalex.org/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://americalex.org/en/tags/"
+                href="https://americalex.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,8 +50,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://americalex.org/tags/"
+                href="https://americalex.org/es/tags/"
                 />
   </url>
-  
 </urlset>
